@@ -1,6 +1,6 @@
 
 let x = prompt("Welcome to calculator. I will ask you two numbers and an arithmitic expression. What should the first number be?", "0");
-let expression = prompt("what is our expression? Please enter it as a symbol. You may also enter 'square number' to square root, or '^' to raise the first number to the power of the second.");
+let expression = prompt("what is our expression? Please enter it as a symbol (+, -, *, /). You may also enter 'square number' to square root, or '^' to raise the first number to the power of the second.");
 let num1;
 let num2;
 
